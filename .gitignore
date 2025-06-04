@@ -1,0 +1,6 @@
+.vscode/
+.DS_Store
+.clang-format
+*.log
+Graph_Traversal/*_graph_traversal
+Graph_Traversal/obj/
