@@ -37,19 +37,18 @@ To run RevDecode, follow these steps:
 
 
 ### How to cite our work
+
 Please cite our work as follows:
+
 ```
 @inproceedings{revdecode2025,
-  title={RevDecode: Enhancing Binary Function Matching with Context-Aware Graph Representations and Relevance Decoding},
-  author={
-    Ren, Tongwei
-    Che, Ronghan
-    Gilman, Guin R.
-    De Carli, Lorenzo
-    Walls, Robert J.
- },
-  booktitle={USENIX Security Symposium},
-  year={2025}
+  title     = {RevDecode: Enhancing Binary Function Matching with Context-Aware Graph Representations and Relevance Decoding},
+  author    = {Tongwei Ren and Ronghan Che and Guin R. Gilman and Lorenzo De Carli and Robert J. Walls},
+  booktitle = {34th USENIX Security Symposium (USENIX Security 25)},
+  address   = {Seattle, WA},
+  publisher = {USENIX Association},
+  month     = aug,
+  year      = {2025}
 }
 ```
 
